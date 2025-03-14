@@ -24,4 +24,11 @@ git remote add origin https://github.com/DanielRG4/backend_laravel_vue_proyecto.
 
 ```
 git add .
+git commit -m "Proyecto Base (CRUD Usuarios)"
+git push origin master
+```
+
+## OBTENER LOS NUEVOS CAMBIOS
+```
+git pull origin master
 ```
